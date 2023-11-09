@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{dd8f6857-7e50-4178-9693-e900e1a424ca}">
+		<property name="assetPath">
+			<value>rustling-grass-4-101281.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.40799999999999997</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{098db23a-c2e4-4178-a91c-42b0a65e879f}</destination>
+		</relationship>
+	</object>
+</objects>
